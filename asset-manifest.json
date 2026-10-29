@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/COMP3104_Exercises/static/css/main.27ca76a1.css",
+    "main.js": "/COMP3104_Exercises/static/js/main.83eb9972.js",
+    "static/js/453.0a1f512f.chunk.js": "/COMP3104_Exercises/static/js/453.0a1f512f.chunk.js",
+    "index.html": "/COMP3104_Exercises/index.html",
+    "main.27ca76a1.css.map": "/COMP3104_Exercises/static/css/main.27ca76a1.css.map",
+    "main.83eb9972.js.map": "/COMP3104_Exercises/static/js/main.83eb9972.js.map",
+    "453.0a1f512f.chunk.js.map": "/COMP3104_Exercises/static/js/453.0a1f512f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.83eb9972.js"
+  ]
+}
